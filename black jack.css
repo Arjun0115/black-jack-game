@@ -1,0 +1,28 @@
+body{
+    background-image: url(/image/card);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box1{
+    margin: 100px auto;
+    justify-content: center;
+    text-align: center;
+    padding: 25px;
+}
+h1{
+    color: goldenrod;
+}
+p{
+    color: white;
+}
+button{
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    color: green;
+    background-color: gold;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
